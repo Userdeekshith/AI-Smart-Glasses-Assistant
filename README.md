@@ -1,3 +1,12 @@
+# AI Smart Glasses Assistant
+
+## Demo Features
+- Object detection (YOLOv8)
+- Distance estimation
+- Voice commands
+- OCR text reading
+
+
 # AI Smart Glasses App
 
 ## Overview
